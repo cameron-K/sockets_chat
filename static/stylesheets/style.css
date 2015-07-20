@@ -1,0 +1,21 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#container{
+	width: 80%;
+	margin:0 auto;
+}
+#chat_window{
+	padding: 15px;
+	border:3px solid #333;
+	height: 80%;
+	background-color: #f9e3a9;
+	overflow: scroll;
+}
+input{
+	margin-top: 10px;
+	width: 100%;
+	font-size: 14px;
+}
+
